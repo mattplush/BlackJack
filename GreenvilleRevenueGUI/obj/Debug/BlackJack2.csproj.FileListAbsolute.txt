@@ -1,0 +1,59 @@
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.GenerateResource.cache
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.CoreCompileInputs.cache
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.GenerateResource.cache
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.CoreCompileInputs.cache
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.MBox.resources
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.manifest
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.application
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.TrustInfo.xml
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe.manifest
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.application
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.AssemblyReference.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.manifest
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.application
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.AssemblyReference.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.SuggestedBindingRedirects.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.MBox.resources
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.GenerateResource.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.CoreCompileInputs.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.TrustInfo.xml
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe.manifest
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.application
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.manifest
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.application
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.AssemblyReference.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.SuggestedBindingRedirects.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.MBox.resources
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.GenerateResource.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\BlackJack2.csproj.CoreCompileInputs.cache
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.TrustInfo.xml
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe.manifest
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.application
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\17196\Desktop\school\FSW\C#\C#2\BlackJack\BlackJack (Visual Studio project, C# windows forms application)\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb

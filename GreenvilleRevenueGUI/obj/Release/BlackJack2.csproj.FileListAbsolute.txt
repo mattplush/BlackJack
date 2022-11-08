@@ -1,0 +1,16 @@
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Release\GreenvilleRevenueGUI.exe.config
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Release\GreenvilleRevenueGUI.exe.manifest
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Release\GreenvilleRevenueGUI.application
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Release\GreenvilleRevenueGUI.exe
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\bin\Release\GreenvilleRevenueGUI.pdb
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\BlackJack2.csprojAssemblyReference.cache
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.Form1.resources
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.MBox.resources
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\BlackJack2.csproj.GenerateResource.cache
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\BlackJack2.csproj.CoreCompileInputs.cache
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.TrustInfo.xml
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.exe.manifest
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.application
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.exe
+C:\Users\17196\Dropbox\My PC (LAPTOP-0138M89B)\Desktop\C#\C#2\BlackJack\BlackJack2\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.pdb
